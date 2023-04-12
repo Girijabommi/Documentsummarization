@@ -8,15 +8,12 @@ To run the app, you need an OpenAI API key. You can create a new API key [here](
 
 ## Set Up
 
-If you don't have Node.js and npm already, install them from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
-
 
 
 ```
 npm install
 ```
-
-Copy the .env.local.example file into a .env.local file and fill out the OpenAI API key field.
+create .env file
 
 ## Development
 
